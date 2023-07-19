@@ -1,0 +1,16 @@
+------------------------Convert Python file into exe Format.---------------------------
+
+
+py --v
+
+go to c 
+
+cd C:\Users\ShubhamDilipVhanmane\AppData\Local\Programs\Python\Python311\
+
+pip install pyinstaller
+
+
+create folder temp === go to this path
+
+
+pyinstaller.exe clean_data1.py --noconsole
